@@ -12,10 +12,10 @@ surveys on recommendation system and computational advertising system
 
 various CTR models for RS
 
-* Deep series
-* FM series
-* FTRL series
 * Tree-based series
+* FTRL series
+* FM series
+* Deep series
 
 | Model     | Conference | Paper                                                        |
 | --------- | ---------- | ------------------------------------------------------------ |
@@ -36,8 +36,9 @@ various CTR models for RS
 | xDeepFM   | KDD'18     | [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems](https://arxiv.org/pdf/1803.05170.pdf) [**Microsoft**] |
 | DIN   | KDD'18     | [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf) [**Alibaba**] |
 | FwFM      | WWW'18     | [Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising](https://arxiv.org/pdf/1806.03514.pdf) [**Oath, TouchPal, LinkedIn, Ablibaba**] |
+| FPE   | RecSys'18   | [Field-aware Probabilistic Embedding Neural Network for CTR Prediction](https://dl.acm.org/citation.cfm?id=3240396) |
 | AutoInt   | arxiv'18   | [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/abs/1810.11921) |
-| INN   | AAAI'19   | [Interaction-aware Factorization Machines for Recommender Systems](https://arxiv.org/abs/1902.09757) |
+| INN   | AAAI'19   | [Interaction-aware Factorization Machines for Recommender Systems](https://arxiv.org/abs/1902.09757) [**Tencent**]|
 
 
 
