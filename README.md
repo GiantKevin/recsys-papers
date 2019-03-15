@@ -53,7 +53,7 @@ various CTR prediction models for RS
 
 | Model       | Conference | Paper                                                        |
 | ----------- | ---------- | ------------------------------------------------------------ |
-| NCF | WWW'17   | [https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf) |
+| NCF | WWW'17   | [Neural Collaborative Filtering](https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf) |
 | Product Emb | arxiv'19   | [Large-scale Collaborative Filtering with Product Embeddings](https://arxiv.org/abs/1901.04321) [**Amazon**] |
 
 
