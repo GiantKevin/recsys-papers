@@ -42,6 +42,38 @@ various CTR prediction models for RS
 
 
 
+### Embedding Model
+
+* word2vec
+* item2vec
+* listing2vec
+* node2vec
+* id2vec
+* cf2vec
+
+| Model       | Conference | Paper                                                        |
+| ----------- | ---------- | ------------------------------------------------------------ |
+| NCF | WWW'17   | [https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf) |
+| Product Emb | arxiv'19   | [Large-scale Collaborative Filtering with Product Embeddings](https://arxiv.org/abs/1901.04321) [**Amazon**] |
+
+
+
+### Deep Reinforcement Learning
+
+* DRN：A Deep Reinforcement Learning Framework for News Recommendation
+
+* Deep Reinforcement Learning for Page-wise Recommendations
+
+  Deep Reinforcement Learning for List-wise Recommendations
+
+* Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation
+
+  Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application
+
+* https://tech.meituan.com/2018/11/15/reinforcement-learning-in-mt-recommend-system.html
+
+
+
 ### Evaluations
 
 evaluation methods for RS
