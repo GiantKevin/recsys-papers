@@ -10,7 +10,7 @@ surveys on recommendation system and computational advertising system
 
 ### CTR Model
 
-various CTR models for RS
+various CTR prediction models for RS
 
 * Tree-based series
 * FTRL series
