@@ -53,8 +53,12 @@ various CTR prediction models for RS
 
 | Model       | Conference | Paper                                                        |
 | ----------- | ---------- | ------------------------------------------------------------ |
+| Youtube DNN | RecSys'16| [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530) [**Google**] |
 | NCF | WWW'17   | [Neural Collaborative Filtering](https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf) |
+| Listing Emb | KDD'18 | [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://www.kdd.org/kdd2018/accepted-papers/view/real-time-personalization-using-embeddings-for-search-ranking-at-airbnb) [**Airbnb**] |
 | Product Emb | arxiv'19   | [Large-scale Collaborative Filtering with Product Embeddings](https://arxiv.org/abs/1901.04321) [**Amazon**] |
+| DeepCF | AAAI'19 | [DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System](https://arxiv.org/abs/1901.04704) |
+
 
 
 
