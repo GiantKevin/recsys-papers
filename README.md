@@ -53,12 +53,16 @@ various CTR prediction models for RS
 
 | Model       | Conference | Paper                                                        |
 | ----------- | ---------- | ------------------------------------------------------------ |
-| NCF | WWW'17   | [Neural Collaborative Filtering](https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf) |
-| Product Emb | arxiv'19   | [Large-scale Collaborative Filtering with Product Embeddings](https://arxiv.org/abs/1901.04321) [**Amazon**] |
+| word2vec | arxiv'13   | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf); [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf) [**Google**] |
+| item2vec | arxiv'16   | [Item2Vec: Neural Item Embedding for Collaborative Filtering](https://arxiv.org/ftp/arxiv/papers/1603/1603.04259.pdf)|
+| node2vec | KDD'16   | [node2vec: Scalable Feature Learning for Networks](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf) |
+| cf2vec | WWW'17   | [Neural Collaborative Filtering](https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf) |
+| listing2vec | KDD'18   | [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf) [**Airbnb**] |
+| product2vec | arxiv'19   | [Large-scale Collaborative Filtering with Product Embeddings](https://arxiv.org/abs/1901.04321) [**Amazon**] |
 
 
 
-### Deep Reinforcement Learning
+### DRL based
 
 * DRN：A Deep Reinforcement Learning Framework for News Recommendation
 
@@ -71,6 +75,10 @@ various CTR prediction models for RS
   Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application
 
 * https://tech.meituan.com/2018/11/15/reinforcement-learning-in-mt-recommend-system.html
+
+| Conference | Paper                                                        |
+| ---------- | ------------------------------------------------------------ |
+| WWW'18   | [DRN：A Deep Reinforcement Learning Framework for News Recommendation](https://dl.acm.org/citation.cfm?id=3185994) [**MSRA**]|
 
 
 
