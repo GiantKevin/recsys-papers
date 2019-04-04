@@ -6,7 +6,7 @@
 
 surveys on recommendation system and computational advertising system
 
-* 
+* [Deep Learning based Recommender System A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
 
 
 
@@ -16,8 +16,8 @@ surveys on recommendation system and computational advertising system
 * item2vec
 * listing2vec
 * node2vec
-* WDL-id2vec
-* NCF-cf2vec
+* id2vec based on WDL
+* cf2vec based on NCF
 
 | Model       | Conference | Paper                                                        |
 | ----------- | ---------- | ------------------------------------------------------------ |
@@ -54,6 +54,7 @@ various CTR prediction models for RS
 | Wide&Deep | DLRS'16    | [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf) [**Google**] |
 | FNN       | ECIR'16    | [Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction](https://arxiv.org/abs/1601.02376) [**RayCloud**] |
 | PNN       | ICDM'16    | [Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1611.00144.pdf) |
+| Youtube Rank-DNN    | RecSys'16   | [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530), [**Google**] |
 | DeepFM    | IJCAI'17   | [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/abs/1703.04247), [**Huawei**] |
 | NFM       | SIGIR'17   | [Neural Factorization Machines for Sparse Predictive Analytics](https://dl.acm.org/citation.cfm?id=3080777) |
 | AFM       | IJCAI'17   | [Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks](http://www.ijcai.org/proceedings/2017/0435.pdf) |
@@ -69,21 +70,17 @@ various CTR prediction models for RS
 
 ### DRL based
 
-* DRN：A Deep Reinforcement Learning Framework for News Recommendation
+* Deep Reinforcement Learning based Recommendation Systems
 
-* Deep Reinforcement Learning for Page-wise Recommendations
-
-  Deep Reinforcement Learning for List-wise Recommendations
-
-* Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation
-
-  Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application
-
-* https://tech.meituan.com/2018/11/15/reinforcement-learning-in-mt-recommend-system.html
 
 | Conference | Paper                                                        |
 | ---------- | ------------------------------------------------------------ |
 | WWW'18   | [DRN：A Deep Reinforcement Learning Framework for News Recommendation](https://dl.acm.org/citation.cfm?id=3185994) [**MSRA**]|
+| RecSys'18 | [Deep Reinforcement Learning for Page-wise Recommendations](https://dl.acm.org/cita tion.cfm?id=3240374) [**JD**] |
+| Arxiv'17 | [Deep Reinforcement Learning for List-wise Recommendations](https://arxiv.org/abs/1801.00209) [**JD**] |
+| KDD'18 | [Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation](https://arxiv.org/abs/1801.00209) |
+| KDD'18 | [Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application](https://dl.acm.org/citation.cfm?id=3219846) |
+|  | https://tech.meituan.com/2018/11/15/reinforcement-learning-in-mt-recommend-system.html [**Meituan**] |
 
 
 
@@ -91,7 +88,8 @@ various CTR prediction models for RS
 
 evaluation methods for RS
 
-* 
+* Predicting Online Performance of News Recommender Systems Through Richer Evaluation Metrics
+* RecSys2018 tutorial
 
 
 
@@ -110,7 +108,7 @@ interpretation methods for ML models
 
 ### System
 
-system reference
+Recommendation related system references
 
 * 
 
