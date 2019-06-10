@@ -38,9 +38,9 @@ surveys on recommendation system and computational advertising system
 
 various CTR prediction models for RS
 
-* Tree-based series
-* FTRL series
-* FM series
+* Tree-based series: XGBoost
+* FTRL series: FTRL
+* FM series: FM/FFM
 * Deep series
 
 | Model     | Conference | Paper                                                        |
@@ -79,7 +79,7 @@ various CTR prediction models for RS
 | Conference | Paper                                                        |
 | ---------- | ------------------------------------------------------------ |
 | WWW'18   | [DRN：A Deep Reinforcement Learning Framework for News Recommendation](https://dl.acm.org/citation.cfm?id=3185994) [**MSRA**]|
-| RecSys'18 | [Deep Reinforcement Learning for Page-wise Recommendations](https://dl.acm.org/cita tion.cfm?id=3240374) [**JD**] |
+| RecSys'18 | [Deep Reinforcement Learning for Page-wise Recommendations](https://dl.acm.org/citation.cfm?id=3240374) [**JD**] |
 | Arxiv'17 | [Deep Reinforcement Learning for List-wise Recommendations](https://arxiv.org/abs/1801.00209) [**JD**] |
 | KDD'18 | [Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation](https://arxiv.org/abs/1801.00209) |
 | KDD'18 | [Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application](https://dl.acm.org/citation.cfm?id=3219846) |
@@ -121,7 +121,8 @@ Recommendation related system references
 
 hashing function for flow allocations
 
-* 
+* SHALE: An Efficient Algorithm for Allocation of Guaranteed Display Advertising <https://arxiv.org/abs/1203.3619> SHALE Algorithm
+* Ad Serving Using a Compact Allocation Plan <https://arxiv.org/abs/1203.3593> HWM,DUAL Algorithm
 
 
 
